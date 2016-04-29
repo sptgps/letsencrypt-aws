@@ -21,11 +21,11 @@ ELBs' certificates will be kept minty fresh.
 
 ## How to run it
 
-If you're new to Python you will need to install the dependencies (located in
-requirements.txt).
+If you're new to Python you will need to install the dependencies located in
+requirements.txt. Run this command to do that:
 
 ```console
-pip install -r requirements.txt will do that for you.
+pip install -r requirements.txt
 ```
 
 Before you can use `letsencrypt-aws` you need to have created an account with
