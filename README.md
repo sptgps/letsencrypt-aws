@@ -22,7 +22,11 @@ ELBs' certificates will be kept minty fresh.
 ## How to run it
 
 If you're new to Python you will need to install the dependencies (located in
-requirements.txt). pip install -r requirements.txt will do that for you.
+requirements.txt).
+
+```console
+pip install -r requirements.txt will do that for you.
+```
 
 Before you can use `letsencrypt-aws` you need to have created an account with
 the ACME server (you only need to do this the first time). You can register
